@@ -1,11 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Liam Conkin
-===================================================================================================================================
-
-Front End Web Developer & UX/UI Designer
-----------------------------------------
-
-Liam is a Front End Web Developer with a passion for working with and teaching others web development concepts, as teachers learn as much about concepts as the people they're teaching.
-
 * 🌍  I'm based in Vancouver, BC
 * 🖥️  See my portfolio at [liamconkin.ca](http://liamconkin.ca)
 * ✉️  You can contact me at [liam.conkin@gmail.com](mailto:liam.conkin@gmail.com)

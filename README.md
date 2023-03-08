@@ -5,7 +5,7 @@
 ## Hey! 👋
 I'm Liam, a Front End Web Developer from Vancouver.
 
-- 🧭 Worked with [@th8ta](https://crowdfundsuite.com/) 
+- 🧭 Worked with [CrowdfundSuite](https://crowdfundsuite.com/) 
 
 - 🖥️ See my portfolio at [lconkin.ca](http://lconkin.ca)
 

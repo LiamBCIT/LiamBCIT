@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Liam Conkin.
-I'm a Front End Web Developer developing user-centric web and mobile applications. I take every opportunity I can to think in the user shoes, providing a responsive and interactive browsing experience for digital product solutions that solve real life problems. 
+I'm a front end web developer developing user-centric web and mobile applications. I take every opportunity I can to think in the user shoes, providing a responsive and interactive browsing experience for digital product solutions that solve real life problems. 
 
 - 🧭 Worked with [CrowdfundSuite](https://crowdfundsuite.com/) 
 

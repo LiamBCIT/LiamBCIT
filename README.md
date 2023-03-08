@@ -1,6 +1,6 @@
 * <h1 align="center">
-  <img src="https://raw.githubusercontent.com/liamconkin/liamconkin/master/name.svg" alt="Liam Conkin" />
-</h1>
+  <img src="https://raw.githubusercontent.com/LiamBCIT/githubreadmeheader/main/liamtext.svg" alt="Liam Conkin" />
+</h1>       
 
 ## Hey! 👋
 I'm Liam, a Front End Web Developer from Vancouver.
@@ -11,7 +11,7 @@ I'm Liam, a Front End Web Developer from Vancouver.
 
 - ✉️ Contact: [liam.conkin@gmail.com](mailto:liam.conkin@gmail.com)
 
-## Skills
+## Tech Stack
 - 👨‍💻 TypeScript, JavaScript, PHP, HTML, CSS
 - ⚙️ React, Next.js, Node, Git
 - 👁️ SASS, CSS, Tailwind CSS, Chakra UI, 

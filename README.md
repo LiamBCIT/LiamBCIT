@@ -30,4 +30,3 @@ I'm Liam Conkin, a Front End Web Developer developing user-centric web and mobil
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![image](https://user-images.githubusercontent.com/89231041/223626850-f1a0a42d-e4b8-487f-b4a6-9d6e31f98c88.png)

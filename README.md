@@ -1,9 +1,5 @@
-* <h1 align="center">
-  <img src="https://raw.githubusercontent.com/LiamBCIT/githubreadmeheader/main/liamtext.svg" alt="Liam Conkin"/>
-</h1>       
-
-## Hey! 👋
-I'm Liam, a Front End Web Developer from Vancouver.
+## 👋 Hello! I'm Liam.
+I'm Liam Conkin, a Front End Web Developer from Vancouver.
 
 - 🧭 Worked with [CrowdfundSuite](https://crowdfundsuite.com/) 
 

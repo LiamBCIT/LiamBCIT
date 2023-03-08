@@ -13,5 +13,5 @@ I'm Liam Conkin, a Front End Web Developer from Vancouver.
 - 👁️ SASS, CSS, Tailwind CSS, Chakra UI, 
 - 💽 Mongo, PostgresSQL, Firebase
 - 👨‍🎨 Figma, Adobe Creative Cloud: Illustrator, Photoshop, InDesign, After Effects, Premiere Pro
-- 🎨 UX/UI Design, User Research, User Testing, Wireframes, Hi-Fidelity Prototypes, 
+- 🎨 UX/UI Design, User Research, User Testing, Wireframes, Hi-Fidelity Prototypes, Design-to-code
 

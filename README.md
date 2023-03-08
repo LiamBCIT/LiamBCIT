@@ -1,5 +1,5 @@
 * <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Liam Conkin" />
+  <img src="https://raw.githubusercontent.com/liamconkin/liamconkin/master/name.svg" alt="Liam Conkin" />
 </h1>
 
 ## Hey! 👋

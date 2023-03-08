@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Liam Conkin.
+## Hello! I'm Liam Conkin.
 I'm a front end web developer developing user-centric web and mobile applications. I take every opportunity I can to think in the user shoes, providing a responsive and interactive browsing experience for digital product solutions that solve real life problems. 
 
 - 🧭 Worked with [CrowdfundSuite](https://crowdfundsuite.com/) 
@@ -7,7 +7,7 @@ I'm a front end web developer developing user-centric web and mobile application
 
 - ✉️ Contact: [liam.conkin@gmail.com](mailto:liam.conkin@gmail.com)
 
-## Teck Stack
+## Tech Stack
 
 ### Front End Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

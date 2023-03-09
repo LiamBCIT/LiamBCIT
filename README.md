@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Liam Conkin</h1>
-I'm a front end web developer developing user-centric web and mobile applications. I take every opportunity I can to think in the user's shoes to provide a responsive and interactive browsing experience for digital product solutions that solve real life problems. 
+## Hey, I'm Liam. 
+I live in Vancouver. I like building things, swimming, coding. Worked with [CrowdfundSuite](https://crowdfundsuite.com/) 
 
-- 🧭 Worked with [CrowdfundSuite](https://crowdfundsuite.com/) 
-
-- 🖥️ See my portfolio at [lconkin.ca](http://lconkin.ca)
-
-- ✉️ Contact: [liam.conkin@gmail.com](mailto:liam.conkin@gmail.com)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LiamBCIT&show_icons=true&locale=en" alt="LiamBCIT" /></p>
+### Get In Touch
+<a href="mailto:liam.conkin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/liam-conkin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</a> <a href="https://www.lconkin.ca"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 
 ## Tech Stack
 
@@ -32,3 +28,5 @@ I'm a front end web developer developing user-centric web and mobile application
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+
+![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamBCIT&show_icons=true&theme=dark)

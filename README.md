@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Liam Conkin</h1>
-I'm a front end web developer developing user-centric web and mobile applications. I take every opportunity I can to think in the user's shoes to provide a responsive and interactive browsing experience for digital product solutions that solve real life problems. 
-
-- 🧭 Worked with [CrowdfundSuite](https://crowdfundsuite.com/) 
-
-- 🖥️ See my portfolio at [lconkin.ca](http://lconkin.ca)
-
-- ✉️ Contact: [liam.conkin@gmail.com](mailto:liam.conkin@gmail.com)
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<h2> Hey there! I'm Liam.</h2>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at the Birtihs Columbia Institute of Technology.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Learning more about Redux and MERN Stack
+- ✍️ &nbsp; Pursuing Front End Development and freelance as hobbies/side hustles.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LiamBCIT&show_icons=true&locale=en" alt="LiamBCIT" /></p>
 
@@ -33,4 +33,6 @@ I'm a front end web developer developing user-centric web and mobile application
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
-
+### Contact
+- 🖥️ See my portfolio at [lconkin.ca](http://lconkin.ca)
+- ✉️ Contact: [liam.conkin@gmail.com](mailto:liam.conkin@gmail.com)

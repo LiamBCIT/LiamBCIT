@@ -6,7 +6,7 @@ I'm a front end web developer developing user-centric web and mobile application
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Mathematics at the Birtihs Columbia Institute of Technology.
+- 🎓 &nbsp; Studying Digital Design and Development at the British Columbia Institute of Technology.
 
 - 🌱 &nbsp; Learning more about Redux and MERN Stack.
 

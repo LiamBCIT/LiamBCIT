@@ -2,9 +2,11 @@
 <h2> Hey there! I'm Liam.</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
 - 🎓 &nbsp; Studying Computer Science and Mathematics at the Birtihs Columbia Institute of Technology.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+
 - 🌱 &nbsp; Learning more about Redux and MERN Stack
+
 - ✍️ &nbsp; Pursuing Front End Development and freelance as hobbies/side hustles.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LiamBCIT&show_icons=true&locale=en" alt="LiamBCIT" /></p>

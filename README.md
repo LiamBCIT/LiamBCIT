@@ -1,16 +1,11 @@
-<h2> Hey there! I'm Liam.</h2>
+<h1 align="center">Hi 👋, I'm Liam Conkin</h1>
+I'm a front end web developer developing user-centric web and mobile applications. I take every opportunity I can to think in the user's shoes to provide a responsive and interactive browsing experience for digital product solutions that solve real life problems. 
 
-I'm a front end web developer developing user-centric web and mobile applications. I take every opportunity I can to think in the user's shoes to provide a responsive and interactive browsing experience for digital product solutions that solve real life problems.
+- 🧭 Worked with [CrowdfundSuite](https://crowdfundsuite.com/) 
 
-<h3>👋 &nbsp;About Me </h3>
+- 🖥️ See my portfolio at [lconkin.ca](http://lconkin.ca)
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🎓 &nbsp; Studying Digital Design and Development at the British Columbia Institute of Technology.
-
-- 🌱 &nbsp; Learning more about Redux and MERN Stack.
-
-- ✍️ &nbsp; Pursuing Front End Development and freelance as hobbies/side hustles.
+- ✉️ Contact: [liam.conkin@gmail.com](mailto:liam.conkin@gmail.com)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LiamBCIT&show_icons=true&locale=en" alt="LiamBCIT" /></p>
 
@@ -37,7 +32,11 @@ I'm a front end web developer developing user-centric web and mobile application
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![image](https://user-images.githubusercontent.com/89231041/223907357-2afeaf01-dce2-4f0a-9863-46370ebc41a3.png)
 
-### Contact
-- 🖥️ See my portfolio at [lconkin.ca](http://lconkin.ca)
-- ✉️ Contact: [liam.conkin@gmail.com](mailto:liam.conkin@gmail.com)
+
+### Databases & Design
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)

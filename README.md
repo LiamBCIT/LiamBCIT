@@ -31,7 +31,5 @@ I'm a front end web developer developing user-centric web and mobile application
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LiamBCIT&show_icons=true&locale=en&layout=compact" alt="ykim312" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LiamBCIT&show_icons=true&locale=en" alt="ykim312" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LiamBCIT&show_icons=true&locale=en" alt="LiamBCIT" /></p>
 

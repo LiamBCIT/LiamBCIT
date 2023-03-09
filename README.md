@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 <h2> Hey there! I'm Liam.</h2>
+
+I'm a front end web developer developing user-centric web and mobile applications. I take every opportunity I can to think in the user's shoes to provide a responsive and interactive browsing experience for digital product solutions that solve real life problems.
 
 <h3>👋 &nbsp;About Me </h3>
 

@@ -2,11 +2,12 @@
 <h2> Hey there! I'm Liam.</h2>
 
 <h3>👋 &nbsp;About Me </h3>
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 🎓 &nbsp; Studying Computer Science and Mathematics at the Birtihs Columbia Institute of Technology.
 
-- 🌱 &nbsp; Learning more about Redux and MERN Stack
+- 🌱 &nbsp; Learning more about Redux and MERN Stack.
 
 - ✍️ &nbsp; Pursuing Front End Development and freelance as hobbies/side hustles.
 

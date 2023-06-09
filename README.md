@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Liam Conkin 👋</h1>
 I'm a front end web developer developing user-centric web and mobile applications. I take every opportunity I can to think in the user's shoes to provide a responsive and interactive browsing experience for applications that solve real life problems. 
 
-- 🧭 Worked with [CrowdfundSuite](https://crowdfundsuite.com/) 
-
 - 🖥️ See my portfolio at [lconkin.ca](http://lconkin.ca)
 
 - ✉️ Contact: [liam.conkin@gmail.com](mailto:liam.conkin@gmail.com)

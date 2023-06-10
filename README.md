@@ -1,33 +1,42 @@
-<h1 align="center">Hi, I'm Liam Conkin 👋</h1>
-I'm a front end web developer developing user-centric web and mobile applications. I take every opportunity I can to think in the user's shoes to provide a responsive and interactive browsing experience for applications that solve real life problems. 
+<h1 align="center"><b>Hello , I'm Liam </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🖥️ See my portfolio at [lconkin.ca](http://lconkin.ca)
+### ✨ &nbsp;Nice to meet you!
+* ⚡ I enjoy learning new technologies to build projects, be it UI, UX or programming! 
+* 🏫 Currently learning AWS as a hackathon teammate made a great suggestion!
+* 🎨 In my downtime, I enjoy gymwork, hiking and hanging out with others. 
+* 🎉 Graduated from the BCIT Digital Design and Development. 
+* 🎼 Portfolio here [portfolio](https://lconkin.ca)
+* 📫 Open to collaborate on fullstack projects! [liam.conkin@gmail.com](liam.conkin@gmail.com)
 
-- ✉️ Contact: [liam.conkin@gmail.com](mailto:liam.conkin@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LiamBCIT&show_icons=true&locale=en" alt="LiamBCIT" /></p>
+### 📦 &nbsp;Toolkit
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-05122A?style=flat&logo=postgressql)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=reactnative)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+<br>
 
-## Tech Stack
+### ☕ &nbsp;Contact
+<p align="left">
+<a href="https://www.lconkin.ca"><img src="https://img.shields.io/badge/-lconkin.ca-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/liam-conkin/"><img src="https://img.shields.io/badge/-Liam%20Conkin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:liam.conkin@gmail.com"><img src="https://img.shields.io/badge/liam.conkin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
-### Front End Technologies
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases & Design
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+<a href="https://github.com/LiamBCIT">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LiamBCIT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LiamBCIT&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 

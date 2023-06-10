@@ -5,7 +5,7 @@
 * 🏫 Currently learning AWS as a hackathon teammate made a great suggestion!
 * 🎨 In my downtime, I enjoy gymwork, hiking and hanging out with others. 
 * 🎉 Graduated from the BCIT Digital Design and Development. 
-* 🎼 Portfolio here [portfolio](https://lconkin.ca)
+* 🎼 Portfolio can be found here --> [lconkin.ca](https://lconkin.ca)
 * 📫 Open to collaborate on fullstack projects! [liam.conkin@gmail.com](liam.conkin@gmail.com)
 
 

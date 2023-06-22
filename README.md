@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello , I'm Liam </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I'm Liam </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### ✨ &nbsp;Nice to meet you!
 * ⚡ I enjoy learning new technologies to build projects, be it UI, UX or programming! 

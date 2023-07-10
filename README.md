@@ -23,6 +23,7 @@
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-05122A?style=flat&logo=postgressql)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=reactnative)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET&logoColor=563D7C)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;

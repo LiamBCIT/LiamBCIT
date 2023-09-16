@@ -2,9 +2,8 @@
 
 ### ✨ &nbsp;Nice to meet you!
 * ⚡ I enjoy learning new technologies to build projects, be it UI, UX or programming! 
-* 🏫 Currently learning AWS as a hackathon teammate made a great suggestion!
-* 🎨 In my downtime, I enjoy gymwork, hiking and hanging out with others. 
-* 🎉 Graduated from the BCIT Digital Design and Development. 
+* 🏫 Currently learning AWS as a hackathon coworker made a great suggestion!
+* 🎉 Graduated from BCIT Digital Design and Development. 
 * 🎼 Portfolio can be found here --> [lconkin.ca](https://lconkin.ca)
 * 📫 Open to collaborate on fullstack projects! [liam.conkin@gmail.com](liam.conkin@gmail.com)
 
